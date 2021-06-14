@@ -7,7 +7,7 @@ This is a local 2-player implementation of quantum chess, it is the first implem
 ## Running The Code
 (1) Download the code and place it into its own directory. 
 (2) Install npm 
-(3) In the project directory run ### `npm start`
+(3) In the terrminal in the project directory run `npm run start`
 
-This will run the app in the development mode and you can \
+This will run the app locally and you can \
 open [http://localhost:3000](http://localhost:3000) to view it in the browser.
